@@ -147,7 +147,6 @@ automacao-relatorios-vendas/
 │   └── automacao_relatorios_vendas.ipynb
 │
 ├── README.md
-└── requirements.txt
 ```
 
 > A estrutura pode variar de acordo com a organização final dos arquivos no repositório.
